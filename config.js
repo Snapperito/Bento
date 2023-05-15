@@ -65,21 +65,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com',
-		},
-		{
-			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com',
+		},
+		{
+			id: '5',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '6',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'bookmark',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'reddit',
+					link: 'https:/reddit.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'amazon',
+					link: 'https://amazon.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'trakt',
+					link: 'https://trakt.tv',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'portainer',
+					link: 'https://portainer.snapper.dev',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'at-sign',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'github',
+					link: 'https://github.com/snapperito',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'steam',
+					link: 'https://steamcommunity.com/id/snapperito/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'wishlist',
+					link: 'https://wishlist.snapper.dev',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'discord',
+					link: 'https://discord.com/users/431883840483491850',
 				},
 			],
 		},
