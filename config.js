@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'reddit',
-					link: 'https:/reddit.com',
+					link: 'https://reddit.com',
 				},
 				{
 					name: 'amazon',
